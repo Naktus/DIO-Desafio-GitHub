@@ -1,0 +1,39 @@
+body {
+    background: grey;
+    font-family: Verdana;
+}
+
+#title, .subtitle, .post_title {
+    color: rgb(0, 53, 0);
+}
+
+#title {
+    font-size: 40px;
+    text-transform : uppercase
+}
+
+a {
+    text-decoration: underline;
+    color: lawngreen;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    border-radius: 5px 10px
+}
+
+.post {
+    background-color: white;
+    padding: 15px;
+    border: 3px solid black
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: center;
+}
