@@ -2,9 +2,9 @@
 
 # Desafio GitHub
 
-## Decidi colocar todos as aulas e imagens dos resultados ao final delas
+## Decidi colocar nesse repositório todas as aulas/projetos e imagens do resultado para refêrencia
 
-### Primeira aula foi sobre HTML & CSS3
+### A Primeira aula foi sobre HTML & CSS3
 ### A Segunda Bootstrap
 ### E a Terceira de JavaScript
 
